@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Create a classic Hangman game where players guess letters to reveal a hidden word before running out of attempts. You will practice string manipulation, loops, conditionals, and random selection to build an interactive word-guessing game.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️	Build the Hangman Game
 
